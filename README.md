@@ -1,8 +1,15 @@
-# React + Vite
+ # AI Horizons 2024 Conference Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Welcome to the repository for the AI Horizons 2024 Conference Website. This project is a web application designed to provide information about the AI Horizons 2024 conference, including schedules, speaker details, and contact information. The texts and content for this website are provided, and the site is built using modern web technologies.
+Table of Contents
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    React: A JavaScript library for building user interfaces.
+    React Router: For handling in-app routing.
+    Tailwind CSS: A utility-first CSS framework for styling.
+    Vite: A fast build tool and development server.
+    HTML5: For structuring the web content.
+    CSS3: For styling the web content.
+
+
