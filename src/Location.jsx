@@ -13,7 +13,7 @@ const Location = () => {
             id="location"
             className="p-10 md:flex gap-10 pb-10 mb-10"
         >
-            <div className="w-[800px]">
+            <div className="md:w-[800px]">
                 <MapContainer
                     center={{ lat: 45.07838393257503, lng: 7.850742581891066 }}
                     zoom={13}
@@ -49,7 +49,7 @@ const Location = () => {
                     <MdEmail />
                     <p>reservation@castellodimontaldo.it</p>
                 </div>
-                <button className="rounded-md px-5 py-2 text-lg bg-sky-700 font-bold text-white uppercase">
+                <button className="rounded-md px-5 py-2 text-lg bg-sky-700 font-bold text-white uppercase hover:bg-white hover:text-sky-700">
                     Reserve Room
                 </button>
             </div>

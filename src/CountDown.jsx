@@ -24,7 +24,7 @@ const CountDown = () => {
     }, []);
 
     return (
-        <div className="bg-sky-950 text-white py-10 text-center flex-col gap-10 flex justify-center items-center text-3xl">
+        <div className="bg-sky-900 text-white py-10 text-center flex-col gap-10 flex justify-center items-center text-3xl">
             <div className="space-y-2">
                 <p className="text-xl">Event Starts on</p> 
                 <p className="text-5xl">7 July 2024</p>

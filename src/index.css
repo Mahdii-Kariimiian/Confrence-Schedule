@@ -9,6 +9,6 @@
     }
 
     .nav-links:hover {
-        @apply hover:bg-sky-800 hover:text-white
+        @apply hover:bg-sky-700 hover:text-white
     }
 }

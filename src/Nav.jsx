@@ -10,7 +10,7 @@ const Nav = () => {
     };
 
     return (
-        <header className="flex gap-5 border-b-2 bg-white shadow-md shadow-sky-100 items-center justify-between px-10 py-5 z-10">
+        <header className="relative z-20 flex gap-5 border-b-2 bg-white shadow-md shadow-sky-100 items-center justify-between px-10 py-5">
             <Link to='/'>
                 <h2 className="text-3xl whitespace-nowrap text-sky-950">
                     AI HORIZON
@@ -33,7 +33,7 @@ const Nav = () => {
                     {" "}
                     <li className="nav-links">About us</li>
                 </Link>
-                <li className="nav-links bg-sky-600 text-white font-bold uppercase">
+                <li className="cursor-pointer px-3 py-1 rounded-md whitespace-nowrap bg-sky-700 text-white font-bold uppercase hover:bg-white hover:text-sky-700">
                     Buy Ticket
                 </li>
             </ul>
@@ -49,7 +49,7 @@ const Nav = () => {
                 className={`${
                     !isHamburgerMenu
                         ? "hidden space-y-5"
-                        : "absolute bg-sky-200 top-0 left-[30%] h-[100vh] right-0 md:hidden min-w-[200px] z-10"
+                        : "absolute bg-white top-0 left-[30%] h-[100vh] right-0 md:hidden min-w-[200px] z-10"
                 } `}
             >
                 <ul className="p-5 text-center space-y-5 mt-10 max-w-[200px] m-auto">
@@ -62,7 +62,7 @@ const Nav = () => {
                     </li>
                     <li className="nav-links">Contact us</li>
                     <li className="nav-links">About us</li>
-                    <li className="nav-links bg-sky-600 text-white font-bold uppercase">
+                    <li className="cursor-pointer px-3 py-1 rounded-md whitespace-nowrap bg-sky-700 text-white font-bold uppercase hover:bg-white hover:text-sky-700">
                         Buy Ticket
                     </li>
                 </ul>

@@ -11,7 +11,7 @@ const speakers = () => {
             {speakersInfo.map((speaker) => {
                 return (
                     <div key={speaker.name} className="">
-                        <div className="max-w-[200px] mb-3 w-[200px] h-[200px] overflow-hidden rounded-full border-2 border-black ">
+                        <div className="max-w-[200px] mb-3 w-[200px] h-[200px] overflow-hidden rounded-full border-2 border-sky-950 ">
                             <img src={speaker.Image} alt="" />
                         </div>
                         <h2 className="text-2xl">{speaker.name}</h2>
