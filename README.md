@@ -12,7 +12,11 @@ Table of Contents
    - Vite: A fast build tool and development server.
    - HTML5: For structuring the web content.
    - CSS3: For styling the web content.
-    
+
+ ## Screenshot
+ 
+ ![screenshot-whole](https://github.com/Mahdii-Kariimiian/Confrence-Schedule/assets/134393975/4a87c878-5ca5-4a38-a2b0-a8ee4423ad03)
+
 
   ## Link: 
    Netlify : https://aihorizon.netlify.app/
