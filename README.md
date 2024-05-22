@@ -6,12 +6,12 @@ Table of Contents
 
 ## Technologies Used:
 
-   React: A JavaScript library for building user interfaces.
-   React Router: For handling in-app routing.
-   Tailwind CSS: A utility-first CSS framework for styling.
-   Vite: A fast build tool and development server.
-   HTML5: For structuring the web content.
-   CSS3: For styling the web content.
+   - React: A JavaScript library for building user interfaces.
+   - React Router: For handling in-app routing.
+   - Tailwind CSS: A utility-first CSS framework for styling.
+   - Vite: A fast build tool and development server.
+   - HTML5: For structuring the web content.
+   - CSS3: For styling the web content.
     
 
   ## Link: 
